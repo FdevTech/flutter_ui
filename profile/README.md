@@ -1,7 +1,3 @@
-# profile
-
-A new Flutter project.
-
 
 
 
@@ -57,5 +53,3 @@ combining it with a different pattern such MVVM, MVP& MVI,
 or even Bloc pattern (for flutter projects) for Dependency
 injection I use Dager/Hilt for android and Getit for Flutter
 projects.
-
-
