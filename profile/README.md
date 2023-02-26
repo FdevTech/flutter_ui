@@ -20,7 +20,6 @@ A few resources to get you started if this is your first Flutter project:
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 ## description
-this demo is a zoom in out for menu without by using animation and transformation .
 for localization I used ARB files(the newest approch to deal with localization).
 for state management I used cubit/bloc
 
@@ -29,7 +28,7 @@ for state management I used cubit/bloc
 
 ## Demo
 
-Insert gif or link to demo
+please click to watch the demo on [youtube](https://youtube.com/shorts/Ak9dSaHVORs?feature=share) .
 
 [![scrren shot of the demo](https://github.com/FdevTech/flutter_ui/blob/main/src/Screenshot_20230126_080343.png)](https://youtube.com/shorts/Ak9dSaHVORs?feature=share)
 
