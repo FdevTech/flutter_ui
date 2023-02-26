@@ -1,5 +1,5 @@
 # flutter_ui
-some UIS that I thought they are intertsing tp impelement 
+some UIS that I thought they are intertsing to impelement 
 
 * ## [Profile](https://github.com/FdevTech/flutter_ui/tree/main/profile)
 [![profile](https://github.com/FdevTech/flutter_ui/blob/main/src/Screenshot_20230126_080343.png)](https://github.com/FdevTech/flutter_ui/tree/main/profile)
